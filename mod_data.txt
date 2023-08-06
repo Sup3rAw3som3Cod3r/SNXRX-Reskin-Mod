@@ -1,0 +1,6 @@
+name=snkrxReskin
+author=SharpDev
+description=Reskinmod
+website=https://github.com/sharpdev-me/SNKMD
+version=1.0
+main=main.lua
